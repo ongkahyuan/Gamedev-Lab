@@ -6,14 +6,15 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - Obstacles
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - QuestionBox
   - Water
   - UI
-  - 
+  - Obstacles
   - 
   - 
   - 
